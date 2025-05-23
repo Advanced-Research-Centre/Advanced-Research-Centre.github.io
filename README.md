@@ -5,6 +5,7 @@
 - `_layouts/default.html` has the landing page layout
 - `_includes/about.html` has the research domains part
 - `_includes/projects.html` has the featured projects part
+- [Actions](https://github.com/Advanced-Research-Centre/Advanced-Research-Centre.github.io/actions) for debugging deployment errors.
 
 ### ToDo:
 - [ ] add people
