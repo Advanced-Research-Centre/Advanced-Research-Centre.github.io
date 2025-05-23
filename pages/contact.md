@@ -1,5 +1,5 @@
 ---
-layout: custom1
+layout: custom2
 permalink: "/contact/"
 ---
 
